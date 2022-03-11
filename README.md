@@ -11,4 +11,4 @@
 
 ## :computer: Tech Stack
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rlarlxo2323&show_icons=true&locale=en&layout=compact" alt="rlarlxo2323" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsb12302&show_icons=true&locale=en&layout=compact" alt="jsb12302" /></p>
