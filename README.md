@@ -5,3 +5,6 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rlarlxo2323&show_icons=true&locale=en" alt="rlarlxo2323" />
 </p>
+
+## 🎤 Introduce
+세상에 이로운 서비스를 개발하는 백엔드 엔지니어를 지망하고 있습니다. 협업과 경험을 중요시하는 개발자가 되기 위해 다양한 경험을 쌓아 나아가고 있습니다.
