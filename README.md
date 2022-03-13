@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jeong Soon Bum</h1>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rlarlxo2323&show_icons=true&locale=en" alt="rlarlxo2323" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsb12302&show_icons=true&locale=en" alt="jsb12302" />
 </p>
 
 ## 🎤 Introduce
