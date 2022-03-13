@@ -9,6 +9,17 @@
 ## 🎤 Introduce
 세상에 이로운 서비스를 개발하는 백엔드 엔지니어를 지망하고 있습니다. 협업과 경험을 중요시하는 개발자가 되기 위해 다양한 경험을 쌓아 나가고 있습니다.
 
+## 📆 Experience
+
+|        Type         |          Date           |                           Contents                           | Organizatio                                                  |
+| :-----------------: | :---------------------: | :----------------------------------------------------------: | :----------------------------------------------------------- |
+| Research Activities |       2021.02.17.      | 특허 출원(체온 모니터링 시스템 및 방법) | Univ LAB.Software Engineering                                |
+| Research Activities |       2021.02.17.       | 특허 출원(안면인식 체온측정기 및 이를 이용한 체온측정방법) | Univ LAB.Software Engineering                                |
+| Research Activities |       2021.02.17.    |  특허 출원(드론을 이용한 농업 자동화 시스템)   | Univ LAB.Software Engineering                                |
+| Research Activities | 2021.01. ~</br>2021.12. | GrandICT-4 세부 디지털트윈표준(ISO23247) 기반의제조공정 최적화 기술개발 - 스마트 팩토리 모니터링 시스템 | Univ LAB.Software Engineering                                |
+| Research Activities |       2021.12.01.       | 특허 출원(영양소 섭취량 측정 시스템 및 방법) | Univ LAB.Software Engineering                                |
+| Intership Activities |       2022.01.01. ~</br>2022.02.28.       | AR글래스 내장 응용프로그램 개발 및 연구 보조  | 한국전자통신연구원(ETRI)                         |
+
 ## :computer: Tech Stack
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsb12302&show_icons=true&locale=en&layout=compact" alt="jsb12302" /></p>
