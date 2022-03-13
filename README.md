@@ -19,6 +19,7 @@
 | Research Activities |       2021.02.17    |  특허 출원(드론을 이용한 농업 자동화 시스템)   | Univ LAB.Software Engineering                                |
 | Research Activities | 2021.01. ~</br>2021.12. | GrandICT-4 세부 디지털트윈표준(ISO23247) 기반의제조공정 최적화 기술개발 - 스마트 팩토리 모니터링 시스템 | Univ LAB.Software Engineering                                |
 | Research Activities |       2021. 10. 6 ~<br>2021. 12. 4       | [ROS 기반의 터틀봇 자율주행](https://github.com/jsb12302/Ros_auto_driving) | Dong-eui University                                |
+| Research Activities |       2021. 10. 7 ~<br>2021. 12. 9       | [음식점 내 QR 간편 주문 및 결제 앱 (찍고먹자)](https://github.com/jsb12302/android) | Dong-eui University                                |
 | Research Activities |       2021.12.01       | 특허 출원(영양소 섭취량 측정 시스템 및 방법) | Univ LAB.Software Engineering                                |
 | Intership Activities |       2022.01.01. ~</br>2022.02.28.       | AR글래스 내장 응용프로그램 개발 및 연구 보조  | 한국전자통신연구원(ETRI)                         |
 
