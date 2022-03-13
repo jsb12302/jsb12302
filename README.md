@@ -13,12 +13,12 @@
 
 |        Type         |          Date           |                           Contents                           | Organizatio                                                  |
 | :-----------------: | :---------------------: | :----------------------------------------------------------: | :----------------------------------------------------------- |
-| Education |       2019.04.23.      | 자격 취득 : PC정비사2급                                |
-| Research Activities |       2021.02.17.      | 특허 출원(체온 모니터링 시스템 및 방법) | Univ LAB.Software Engineering                                |
-| Research Activities |       2021.02.17.       | 특허 출원(안면인식 체온측정기 및 이를 이용한 체온측정방법) | Univ LAB.Software Engineering                                |
-| Research Activities |       2021.02.17.    |  특허 출원(드론을 이용한 농업 자동화 시스템)   | Univ LAB.Software Engineering                                |
+| Education |       2019.04.23      | 자격 취득 : PC정비사2급                                | 한국정보통신자격협회
+| Research Activities |       2021.02.17      | 특허 출원(체온 모니터링 시스템 및 방법) | Univ LAB.Software Engineering                                |
+| Research Activities |       2021.02.17       | 특허 출원(안면인식 체온측정기 및 이를 이용한 체온측정방법) | Univ LAB.Software Engineering                                |
+| Research Activities |       2021.02.17    |  특허 출원(드론을 이용한 농업 자동화 시스템)   | Univ LAB.Software Engineering                                |
 | Research Activities | 2021.01. ~</br>2021.12. | GrandICT-4 세부 디지털트윈표준(ISO23247) 기반의제조공정 최적화 기술개발 - 스마트 팩토리 모니터링 시스템 | Univ LAB.Software Engineering                                |
-| Research Activities |       2021.12.01.       | 특허 출원(영양소 섭취량 측정 시스템 및 방법) | Univ LAB.Software Engineering                                |
+| Research Activities |       2021.12.01       | 특허 출원(영양소 섭취량 측정 시스템 및 방법) | Univ LAB.Software Engineering                                |
 | Intership Activities |       2022.01.01. ~</br>2022.02.28.       | AR글래스 내장 응용프로그램 개발 및 연구 보조  | 한국전자통신연구원(ETRI)                         |
 
 ## :computer: Tech Stack
