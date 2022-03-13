@@ -13,6 +13,7 @@
 
 |        Type         |          Date           |                           Contents                           | Organizatio                                                  |
 | :-----------------: | :---------------------: | :----------------------------------------------------------: | :----------------------------------------------------------- |
+| Education |       2019.04.23.      | 자격 취득 : PC정비사2급                                |
 | Research Activities |       2021.02.17.      | 특허 출원(체온 모니터링 시스템 및 방법) | Univ LAB.Software Engineering                                |
 | Research Activities |       2021.02.17.       | 특허 출원(안면인식 체온측정기 및 이를 이용한 체온측정방법) | Univ LAB.Software Engineering                                |
 | Research Activities |       2021.02.17.    |  특허 출원(드론을 이용한 농업 자동화 시스템)   | Univ LAB.Software Engineering                                |
