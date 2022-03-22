@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Jeong Soon Bum</h1>
 
-<p align="center">
+<!-- <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jsb12302&show_icons=true&locale=en" alt="jsb12302" />
-</p>
+</p> -->
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsb12302)](https://solved.ac/jsb12302/)
 <img src="https://github-readme-stats.vercel.app/api?username=jsb12302" width="50%">
