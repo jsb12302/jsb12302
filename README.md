@@ -6,6 +6,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jsb12302&show_icons=true&locale=en" alt="jsb12302" />
 </p>
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsb12302)](https://solved.ac/jsb12302/)
+<img src="https://github-readme-stats.vercel.app/api?username=jsb12302" width="50%">
+
 ## 🎤 Introduce
 세상에 이로운 서비스를 개발하는 백엔드 엔지니어를 지망하고 있습니다. 협업과 경험을 중요시하는 개발자가 되기 위해 다양한 경험을 쌓아 나가고 있습니다.
 
