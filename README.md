@@ -25,7 +25,7 @@
 | Internal Activities |       2021. 10. 7 ~<br>2021. 12. 9       | [음식점 내 QR 간편 주문 및 결제 앱 (찍고먹자)](https://github.com/jsb12302/android) | Dong-eui University                                |
 | Research Activities |       2021.12.01       | 특허 출원(영양소 섭취량 측정 시스템 및 방법) | Univ LAB.Software Engineering                                |
 | Research Activities |       2022.01.13       | 특허 출원(디지털 소외계층을 위한 차세대 키오스크 시스템 및 방법) | 융복합캡스톤디자인                                |
-| Intership Activities |       2022.01.01. ~</br>2022.02.28.       | AR글래스 내장 응용프로그램 개발 및 연구 보조  | 한국전자통신연구원(ETRI)                         |
+| Internship Activities |       2022.01.01. ~</br>2022.02.28.       | AR글래스 내장 응용프로그램 개발 및 연구 보조  | 한국전자통신연구원(ETRI)                         |
 | Internal Activities |       2022.02.18       |  2022년도 학업성적 최우등상   | Dong-eui University                         |
 
 ## :computer: Tech Stack
