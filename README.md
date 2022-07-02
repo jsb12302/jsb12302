@@ -16,7 +16,7 @@
 
 |        Type         |          Date           |                           Contents                           | Organizatio                                                  |
 | :-----------------: | :---------------------: | :----------------------------------------------------------: | :----------------------------------------------------------- |
-|   |       2019.04.23      | 자격 취득 : PC정비사2급                                | 한국정보통신자격협회
+| Certificate  |       2019.04.23      | 자격 취득 : PC정비사2급                                | 한국정보통신자격협회
 | Research Activities |       2021.02.17      | 특허 출원(체온 모니터링 시스템 및 방법) | Univ LAB.Software Engineering                                |
 | Research Activities |       2021.02.17       | 특허 출원(안면인식 체온측정기 및 이를 이용한 체온측정방법) | Univ LAB.Software Engineering                                |
 | Research Activities |       2021.02.17    |  특허 출원(드론을 이용한 농업 자동화 시스템)   | Univ LAB.Software Engineering                                |
@@ -27,6 +27,7 @@
 | Research Activities |       2022.01.13       | 특허 출원(디지털 소외계층을 위한 차세대 키오스크 시스템 및 방법) | 융복합캡스톤디자인                                |
 | Internship Activities |       2022.01.01. ~</br>2022.02.28.       | AR글래스 내장 응용프로그램 개발 및 연구 보조  | 한국전자통신연구원(ETRI)                         |
 | Internal Activities |       2022.02.18       |  2022년도 학업성적 최우등상   | Dong-eui University                         |
+| Certificate |       2022.05.21       |  TopCit 3   | Dong-eui University                         |
 
 ## :computer: Tech Stack
 
