@@ -28,6 +28,7 @@
 | Internship Activities |       2022.01.01. ~</br>2022.02.28.       | AR글래스 내장 응용프로그램 개발 및 연구 보조  | 한국전자통신연구원(ETRI)                         |
 | Internal Activities |       2022.02.18       |  2022년도 학업성적 최우등상   | Dong-eui University                         |
 | Certificate |       2022.05.21       |  TopCit 3수준   | Dong-eui University                         |
+| External Activities |       2022.07 ~ 2022.08       |  NHN커머스 백엔드 양성과정  | NHN                        |
 
 ## :computer: Tech Stack
 
